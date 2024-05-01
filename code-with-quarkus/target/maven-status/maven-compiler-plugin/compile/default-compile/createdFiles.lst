@@ -1,0 +1,7 @@
+org/quarkus/Routes.class
+org/quarkus/RegistrationDetails.class
+org/quarkus/client/Elastic.class
+org/quarkus/MeritApplicants.class
+META-INF/panache-archive.marker
+org/quarkus/GreetingResource.class
+org/quarkus/ProcessBeneficiary.class

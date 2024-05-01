@@ -1,0 +1,15 @@
+{
+    "priority": 2,
+    "request": {
+        "method": "POST",
+        "urlPattern": "/nsp_four/_update/.*"
+    },
+    "response": {
+        "status": "200",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName": "response1.json"
+
+    }
+}

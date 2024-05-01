@@ -1,0 +1,41 @@
+{
+    "before": null,
+    "after": {
+       "application_id": "AS201920008271961",
+       "scheme_id": "894",
+       "total_verif_level": null,
+       "current_verif_level": null,
+       "current_verif_status": null,
+       "verif_remarks": null,
+       "form_corrrection_level": null,
+       "is_form_processed": null,
+       "is_selected": null,
+       "merit_rank": null,
+       "merit_list_batch_no": null,
+       "pfms_reg_batch_no": null,
+       "status": null,
+       "updated_by": null,
+       "updated_on": null,
+       "created_by": null,
+       "created_on": 1701610651786730,
+       "is_scheme_changed": null,
+       "elastic_time": 1701610651786730
+    },
+    "source": {
+       "version": "2.2.1.Final",
+       "connector": "postgresql",
+       "name": "NSP.renewal",
+       "ts_ms": 1701763146752,
+       "snapshot": "first_in_data_collection",
+       "db": "dbrenewal",
+       "sequence": "[null,\"34150584\"]",
+       "schema": "nspprod",
+       "table": "data_applicant_applied_schemes",
+       "txId": 1313,
+       "lsn": 34150584,
+       "xmin": null
+    },
+    "op": "r",
+    "ts_ms": 1701763147397,
+    "transaction": null
+ }
